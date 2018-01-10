@@ -1,0 +1,13 @@
+{
+  "name": "birdsinyourbackyard",
+  "app_id": "164d64e1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "gulp": {
+    "file": ".\\gulpfile.js",
+    "enabled": false
+  }
+}
